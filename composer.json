@@ -1,5 +1,5 @@
 {
-    "name": "monero-integrations/monerophp",
+    "name": "VO-valera1/testbundle",
     "description": "A Monero library written in PHP by the Monero-Integrations team.",
     "keywords": ["Monero", "XMR", "monerod", "monero-wallet-rpc", "cryptonote", "JSONRPC", "JSON-RPC", "cryptocurrency"],
     "homepage": "https://github.com/monero-integrations/monerophp",
@@ -23,6 +23,6 @@
         "php": ">=5.6.0"
     },
     "autoload": {
-        "psr-4": { "Monero\\": "src" }
+        "psr-4": { "Monero\\": "/" }
     }
 }
